@@ -8,12 +8,9 @@ The script is designed to work with a dataset where the goal is to predict a bin
 
 * [Dataset](#-dataset)
 * [Prerequisites](#-prerequisites)
-* [How to Run](#-how-to-run)
 * [Script Workflow](#-script-workflow)
 * [Output](#-output)
-* [Understanding the Sigmoid Function](#-understanding-the-sigmoid-function)
-* [Key Libraries Used](#-key-libraries-used)
-
+* 
 ## Dataset
 
 The script expects a CSV file named `data.csv` to be present in the same directory (or an accessible path).
